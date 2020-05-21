@@ -3,7 +3,7 @@ def name=(name)
 @name = name
 end
 def name()
-name
+this_name
 end
 def breed=(breed)
 @breed = breed
